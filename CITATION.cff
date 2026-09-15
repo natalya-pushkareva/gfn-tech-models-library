@@ -4,6 +4,7 @@ type: software
 title: "GFN & Technology Models Library (2025–2035)"
 version: 1.0.0
 date-released: 2026-09-14
+doi: 10.5281/zenodo.22766267
 authors:
   - family-names: "Pushkareva"
     given-names: "Natalya"
@@ -26,4 +27,4 @@ keywords:
   - Monte Carlo
   - Numba
 license: MIT
-repository-code: "https://github.com/ВАШ_USERNAME/gfn-tech-models-library"
+repository-code: "https://github.com/natalya-pushkareva/gfn-tech-models-library"
