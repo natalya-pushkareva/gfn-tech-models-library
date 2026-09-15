@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gfn-tech-models"
+version = "1.0.0"
+description = "GFN & Technology Models Library (2025–2035)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "Natalya Pushkareva"}
+]
+dependencies = [
+  "numpy",
+  "pandas",
+  "networkx",
+  "scipy",
+  "numba",
+  "streamlit",
+  "plotly"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

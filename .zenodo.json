@@ -1,0 +1,27 @@
+{
+  "title": "GFN & Technology Models Library (2025–2035)",
+  "description": "Library of four interrelated computational models of the Global Financial Network (GFN), cascading defaults, technology index and technological lag with focus on Russia, USA and China (horizon 2025–2035). Includes Monte-Carlo + Numba optimization, Gai–Kapadia cascade mechanism, SBS twin-simulation and endogenous technological dynamics (tech_centrality, tech_dependence, tech_lag).",
+  "creators": [
+    {
+      "name": "Pushkareva, Natalya",
+      "orcid": "0000-0002-0688-5474"
+    }
+  ],
+  "keywords": [
+    "agent-based modeling",
+    "global financial network",
+    "cascading defaults",
+    "technology index",
+    "technological lag",
+    "sanctions",
+    "Russia",
+    "computational social science",
+    "system dynamics",
+    "Monte Carlo",
+    "Numba"
+  ],
+  "license": "mit",
+  "upload_type": "software",
+  "access_right": "open",
+  "version": "1.0.0"
+}
